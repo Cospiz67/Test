@@ -77,8 +77,12 @@ Ici, je vais pouvoir commencer les manipulations. La face de couleur rouge est �
 
 Maintenant, vous devez faire cela pour toutes les faces, jusqu'à avoir toute la deuxième couronne de faite.
 
+## Quatrième étape
+La quatrième étape consiste à réaliser une croix sur la face jaune. Vous allez à présent, prendre votre cube avec la face jaune en haut.
 
+Pour y arriver, il y a une petite histoire qu'on peut raconter pour faciliter l'apprentissage de la technique. C'est l'histoire de la lampe. Pour l'utiliser, il faut avoir un (ou plusieurs cubes jaunes dans l'idéal) sur la troisième couronne. 
 
+La lampe tombe
 
 
 
