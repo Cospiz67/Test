@@ -43,6 +43,7 @@ Voici les manipulations à suivre.
 
 ![rubiks étape 33](https://user-images.githubusercontent.com/98915784/152406839-47bfa9ef-90c5-4101-9bc4-339a44439439.PNG)
 
+![rubiks étape 34](https://user-images.githubusercontent.com/98915784/152407764-e8e4f881-2898-430b-a824-4857358dc867.PNG)
 
 
 
