@@ -60,6 +60,12 @@ Vous devez donc avoir votre première couronne de faite et avoir une sorte de T 
  
  Cette troisième étape consiste à finir la deuxième couronne. Pour cela, vous allez regarder sous chaque face, le cube du milieu. Il faut qu'il soit de la couleur de la face (vert dans l'exemple au dessus) et de la couleur d'une des faces à côté (ici, cela pourrait donc être orange). 
  
+![3](https://user-images.githubusercontent.com/98915784/152411291-e0643455-1d42-4d0e-9d9b-c43d40d4db58.PNG)
+
+Attention, j'ai fait pivoté le cube !
+Dans mon cas, le cube est bleu et orange. Il n'y a pas de vert dans ce cube, il faut donc que je trouve une autre face pour commencer ma deuxième couronne. Vous pouvez essayer de tourner la troisième couronne pour matcher des couleurs. 
+
+
 
 
 
