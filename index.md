@@ -1,7 +1,7 @@
 ## Comment résoudre un rubik's cube ?
 
 On a déjà tous rêvé de résoudre un rubik's cube. De base, ça a l'air compliqué mais au final, une fois qu'on a pris le coup de main, ça devient hyper facile !
-Sur ce tuto, je vais vous apprendre comment résoudre un rubik's cube et les techniques que j'utilise.
+Sur ce tuto, je vais vous apprendre comment résoudre un rubik's cube et les techniques que j'utilise. Attention, ce sont mes techniques, certaines personnes peuvent en utiliser d'autres, elles peuvent êtres différentes.
 Ne vous inquiétez pas, vous allez devenir un pro à la fin ;)
 
 ### Première étape
@@ -13,7 +13,7 @@ J'avoue que pour faire 1 seule face, il n'y a pas trop d'astuces, vous devez jus
 
 ### Deuxième étape
 Ok, maintenant, vous avez votre première face (face blanche) de faite. Maitenant, on va continuer en faisant la première couronne. Mais savez-vous ce qu'est la première couronne ?
-En fait, votre rubik's cube est composé de 6 faces, chacune composé de 3X3 blocs, c'est à dire 9 blocs. une couronne, c'est une ligne si on peut dire ça comme ça. La première couronne c'est donc la première ligne que vous pouvez bouger. 
+En fait, votre rubik's cube est composé de 6 faces, chacune composé de 3X3 blocs, c'est à dire 9 blocs. Une couronne, c'est une ligne si on peut dire ça comme ça. La première couronne c'est donc la première ligne que vous pouvez bouger. 
 
 ![image](https://user-images.githubusercontent.com/98915784/152348001-d4165003-2ae4-404f-9a34-4177f63898fe.png)
 
@@ -24,9 +24,11 @@ Tout d'abord, regardez sur votre rubiks cube si vous n'avez pas un endroit avec 
 
 ![rubiks-1](https://user-images.githubusercontent.com/98915784/152350478-effbc8ad-e58c-4688-a5f2-7394f8d09f57.PNG)
 
-Maintenant, suivez ces instructions:
+Maintenant, suivez ces instructions pour continuer:
 
 ![Rubiks étape 1](https://user-images.githubusercontent.com/98915784/152398357-bdc3e8ba-709a-4416-b3a5-a0743d067d45.PNG)
+
+![Rubiks étape 2 (2)](https://user-images.githubusercontent.com/98915784/152400018-ba7a38a5-ab20-4d99-8aa6-0a27dcb02fbd.PNG)
 
 
 
