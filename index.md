@@ -1,7 +1,7 @@
 ## Comment résoudre un rubik's cube ?
 
 On a déjà tous rêvé de résoudre un rubik's cube. De base, ça a l'air compliqué mais au final, une fois qu'on a pris le coup de main, ça devient hyper facile !
-Sur ce tuto, je vais vous apprendre comment résoudre un rubik's cube et les techniques que j'utilise. Attention, ce sont mes techniques, certaines personnes peuvent en utiliser d'autres, elles peuvent êtres différentes.
+Sur ce tuto, je vais vous apprendre comment résoudre un rubik's cube et les techniques que j'utilise. Attention, ce sont mes techniques, certaines personnes peuvent en utiliser d'autres, elles peuvent donc être différentes.
 Ne vous inquiétez pas, vous allez devenir un pro à la fin ;)
 
 ### Première étape
@@ -34,7 +34,14 @@ Vous allez devoir suivre les instructions suivantes pour pouvoir commencer la pr
 
 ![Rubiks étape 2 (4)](https://user-images.githubusercontent.com/98915784/152402179-86e3a969-0dca-46b1-89e8-a5fcf75ab865.PNG)
 
-Maintenant, vous devez avoir vos deux couleurs l'une sur l'autre. Si vous n'avez pas toutes vos couleurs de chaque face alignées au milieu, vous devez refaire ce mouvement jusqu'à les avoir toutes alignées.  Dans l'exemple ci-dessus, la première couronne est terminé. Cependant, dans certains cas, vos deux cubes des côtés de la première couronne ne sont pas de la même que ceux du centre. Voici un mouvement qui vous permettra d'avoir toute la première couronne de la même couleur.
+Maintenant, vous devez avoir vos deux couleurs l'une sur l'autre. Si vous n'avez pas toutes vos couleurs de chaque face alignées au milieu, vous devez refaire ce mouvement jusqu'à les avoir toutes alignées.  Dans l'exemple ci-dessus, la première couronne est terminée. Cependant, dans certains cas, vos deux cubes des côtés de la première couronne ne sont pas de la même que ceux du centre. Voici un mouvement qui vous permettra d'avoir toute la première couronne de la même couleur.
+
+![rubiks étape 3](https://user-images.githubusercontent.com/98915784/152405630-df4ebc2a-2d21-41e1-a87f-4b37b33f3cb6.PNG)
+
+Nous allons donc ammener, le cube de droite (sur l'exemple au dessus, il est de couleur bleu et orange) là où il devrait être. C'est à dire le cube qui fait l'arrête entre la face bleu et orange. Les faces bleue et orange, sont celles où les cubes du milieu sont bleus et orange. 
+Voici les manipulations à suivre.
+
+![rubiks étape 33](https://user-images.githubusercontent.com/98915784/152406839-47bfa9ef-90c5-4101-9bc4-339a44439439.PNG)
 
 
 
