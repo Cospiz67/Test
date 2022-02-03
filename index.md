@@ -58,6 +58,7 @@ Vous devez donc avoir votre première couronne de faite et avoir une sorte de T 
 
  Au dessus, j'ai matérialisé le T par des croix.
  
+ Cette troisième étape consiste à finir la deuxième couronne. Pour cela, vous allez regarder sous chaque face, le cube du milieu. Il faut qu'il soit de la couleur de la face (vert dans l'exemple au dessus) et de la couleur d'une des faces à côté (ici, cela pourrait donc être orange). 
  
 
 
