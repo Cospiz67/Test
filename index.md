@@ -51,14 +51,15 @@ Le cube bleu/orange est maitenant à sa place, il faut faire ces manipulations p
 
 Ensuite, vous devez arriver au même point que les autres. C'est à dire: première couronne de faite.
 
-### Chapitre 3 
-Voir si ça a marché 
+### Troisème étape
+Vous devez donc avoir votre première couronne de faite et avoir une sorte de T sur chacune de vos faces. 
 
-      
-    
+![1](https://user-images.githubusercontent.com/98915784/152409521-5c74a464-4e3a-48e9-b39e-f0e1e19530fa.PNG)
 
-    
-      
-    
 
-    
+
+
+
+
+
+
