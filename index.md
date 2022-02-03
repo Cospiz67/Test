@@ -73,6 +73,9 @@ Ici, je vais pouvoir commencer les manipulations.
 
 ![19](https://user-images.githubusercontent.com/98915784/152415254-f85b2231-34d4-4d67-bfcf-82bad2447fb1.PNG)
 
+![20](https://user-images.githubusercontent.com/98915784/152416012-5925f350-d359-4790-8a79-7f2910e0b260.PNG)
+
+Maintenant, vous devez faire cela pour toutes les faces.
 
 
 
