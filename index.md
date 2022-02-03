@@ -30,6 +30,9 @@ Maintenant, suivez ces instructions pour continuer:
 
 ![Rubiks étape 2 (2)](https://user-images.githubusercontent.com/98915784/152400018-ba7a38a5-ab20-4d99-8aa6-0a27dcb02fbd.PNG)
 
+![Rubiks étape 2 (3)](https://user-images.githubusercontent.com/98915784/152400937-637ecf5a-9d1f-40cd-8c4a-b5c30e85aeba.PNG)
+
+
 
 
 ### Chapitre 3 
