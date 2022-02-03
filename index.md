@@ -69,6 +69,7 @@ Dans mon cas, le cube est bleu et orange. Il n'y a pas de vert dans ce cube, il 
 
 Ici, je vais pouvoir commencer les manipulations. 
 
+![18](https://user-images.githubusercontent.com/98915784/152414765-e8289bce-8081-4165-b67e-d79c7292b6c2.PNG)
 
 
 
