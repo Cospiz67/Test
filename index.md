@@ -71,6 +71,8 @@ Ici, je vais pouvoir commencer les manipulations.
 
 ![18](https://user-images.githubusercontent.com/98915784/152414765-e8289bce-8081-4165-b67e-d79c7292b6c2.PNG)
 
+![19](https://user-images.githubusercontent.com/98915784/152415254-f85b2231-34d4-4d67-bfcf-82bad2447fb1.PNG)
+
 
 
 
