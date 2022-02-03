@@ -25,6 +25,7 @@ Tout d'abord, regardez sur votre rubiks cube si vous n'avez pas un endroit avec 
 ![rubiks-1](https://user-images.githubusercontent.com/98915784/152350478-effbc8ad-e58c-4688-a5f2-7394f8d09f57.PNG)
 
 
+
 ### Chapitre 3 
 Voir si ça a marché 
 
