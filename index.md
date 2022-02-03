@@ -45,6 +45,7 @@ Voici les manipulations à suivre.
 
 ![rubiks étape 34](https://user-images.githubusercontent.com/98915784/152407764-e8e4f881-2898-430b-a824-4857358dc867.PNG)
 
+![rubiks étape 35](https://user-images.githubusercontent.com/98915784/152408396-ee9c4979-d784-4664-9808-6c7de2d51919.PNG)
 
 
 ### Chapitre 3 
