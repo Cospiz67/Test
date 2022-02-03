@@ -5,7 +5,7 @@ Sur ce tuto, je vais vous apprendre comment résoudre un rubik's cube et les tec
 Ne vous inquiétez pas, vous allez devenir un pro à la fin ;)
 
 ### Première étape
-Tout d'abord, il faut savoir qu'on commence toujours un rubik's cube en faisant une face. En général, c'est la face blanche qu'on prend mais il n'y a aucune obligation. Cependant, je vous conseille pour ce tuto de faire comme moi et donc de commencer par faire la face blanche. 
+Tout d'abord, il faut savoir qu'on commence toujours un rubik's cube en faisant une face. En général, c'est la face blanche qu'on prend mais il n'y a aucune obligation a cela. Cependant, je vous conseille pour ce tuto de faire comme moi et donc de commencer par faire la face blanche. 
 
 ### Chapitre 2
 Savoir retrouver comment je l'ai fait :)
