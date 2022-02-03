@@ -65,6 +65,10 @@ Vous devez donc avoir votre première couronne de faite et avoir une sorte de T 
 Attention, j'ai fait pivoté le cube !
 Dans mon cas, le cube est bleu et orange. Il n'y a pas de vert dans ce cube, il faut donc que je trouve une autre face pour commencer ma deuxième couronne. Vous pouvez essayer de tourner la troisième couronne pour matcher des couleurs. 
 
+![5](https://user-images.githubusercontent.com/98915784/152412845-ca57e036-64de-4f8c-a99f-ec0fb5690a4a.PNG)
+
+Ici, je vais pouvoir commencer les manipulations. 
+
 
 
 
