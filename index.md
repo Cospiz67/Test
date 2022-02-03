@@ -24,13 +24,17 @@ Tout d'abord, regardez sur votre rubiks cube si vous n'avez pas un endroit avec 
 
 ![rubiks-1](https://user-images.githubusercontent.com/98915784/152350478-effbc8ad-e58c-4688-a5f2-7394f8d09f57.PNG)
 
-Maintenant, suivez ces instructions pour continuer:
+Vous allez devoir suivre les instructions suivantes pour pouvoir commencer la première couronne. Le but de ces manipulations est d'arriver à avoir les deux cubes du milieu d'une face de la même couleur.  
 
 ![Rubiks étape 1](https://user-images.githubusercontent.com/98915784/152398357-bdc3e8ba-709a-4416-b3a5-a0743d067d45.PNG)
 
 ![Rubiks étape 2 (2)](https://user-images.githubusercontent.com/98915784/152400018-ba7a38a5-ab20-4d99-8aa6-0a27dcb02fbd.PNG)
 
 ![Rubiks étape 2 (3)](https://user-images.githubusercontent.com/98915784/152400937-637ecf5a-9d1f-40cd-8c4a-b5c30e85aeba.PNG)
+
+![Rubiks étape 2 (4)](https://user-images.githubusercontent.com/98915784/152402179-86e3a969-0dca-46b1-89e8-a5fcf75ab865.PNG)
+
+Maintenant, vous devez avoir vos deux couleurs l'une sur l'autre. Si vous n'avez pas toutes vos couleurs de chaque face alignées au milieu, vous devez refaire ce mouvement jusqu'à les avoir toutes alignées.  Dans l'exemple ci-dessus, la première couronne est terminé. Cependant, dans certains cas, vos deux cubes des côtés de la première couronne ne sont pas de la même que ceux du centre. Voici un mouvement qui vous permettra d'avoir toute la première couronne de la même couleur.
 
 
 
