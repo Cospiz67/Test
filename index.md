@@ -47,6 +47,9 @@ Voici les manipulations à suivre.
 
 ![rubiks étape 35](https://user-images.githubusercontent.com/98915784/152408396-ee9c4979-d784-4664-9808-6c7de2d51919.PNG)
 
+Le cube bleu/orange est maitenant à sa place, il faut faire ces manipulations pour tous les autres coins droits des faces qui ne sont pas de la même couleur que les cubes du milieu d'une face. 
+
+Ensuite, vous devez arriver au même point que les autres. C'est à dire: première couronne de faite.
 
 ### Chapitre 3 
 Voir si ça a marché 
