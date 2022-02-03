@@ -56,6 +56,9 @@ Vous devez donc avoir votre première couronne de faite et avoir une sorte de T 
 
 ![1](https://user-images.githubusercontent.com/98915784/152409521-5c74a464-4e3a-48e9-b39e-f0e1e19530fa.PNG)
 
+ Au dessus, j'ai matérialisé le T par des croix.
+ 
+ 
 
 
 
