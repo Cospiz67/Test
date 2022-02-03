@@ -10,8 +10,9 @@ Tout d'abord, il faut savoir qu'on commence toujours un rubik's cube en faisant 
 ![image](https://user-images.githubusercontent.com/98915784/152345647-2e06ed45-930b-4d7f-a4b0-fb0adb3a610c.png)
 
 J'avoue que pour faire 1 seule face, il n'y a pas trop d'astuces, vous devez juste le faire vous même.
-### Chapitre 2
-Savoir retrouver comment je l'ai fait :)
+
+### Deuxième étape
+Ok, maintenant, vous avez votre première face (face blanche) de faite. Maitenant, on va continuer en faisant la première couronne.
 ### Chapitre 3 
 Voir si ça a marché 
 
