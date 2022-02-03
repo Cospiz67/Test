@@ -67,7 +67,7 @@ Dans mon cas, le cube est bleu et orange. Il n'y a pas de vert dans ce cube, il 
 
 ![5](https://user-images.githubusercontent.com/98915784/152412845-ca57e036-64de-4f8c-a99f-ec0fb5690a4a.PNG)
 
-Ici, je vais pouvoir commencer les manipulations. 
+Ici, je vais pouvoir commencer les manipulations. La face de couleur rouge est à droite donc je vais faire les mouvements vers la droite mais si elle avait été à gauche, j'aurais fait la même chose du côté opposé. 
 
 ![18](https://user-images.githubusercontent.com/98915784/152414765-e8289bce-8081-4165-b67e-d79c7292b6c2.PNG)
 
@@ -75,8 +75,7 @@ Ici, je vais pouvoir commencer les manipulations.
 
 ![20](https://user-images.githubusercontent.com/98915784/152416012-5925f350-d359-4790-8a79-7f2910e0b260.PNG)
 
-Maintenant, vous devez faire cela pour toutes les faces.
-
+Maintenant, vous devez faire cela pour toutes les faces, jusqu'à avoir toute la deuxième couronne de faite.
 
 
 
