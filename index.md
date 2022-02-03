@@ -20,7 +20,9 @@ En fait, votre rubik's cube est composé de 6 faces, chacune composé de 3X3 blo
 Sur cet exemple, la première couronne, c'est ce qu'il y a en gris.
 Notre but est donc d'avoir 3 blocs de même couleur, alignés sur chacune des faces. 
 
-Tout d'abord, 
+Tout d'abord, regardez sur votre rubiks cube si vous n'avez pas un endroit avec un bloc d'une couleur sur la première couronne(sur l'exemple ci-dessous: orange) et un autre bloc de la même couleur sur la face d'à côté, sur la deuxième couronne. 
+
+![rubiks-1](https://user-images.githubusercontent.com/98915784/152350478-effbc8ad-e58c-4688-a5f2-7394f8d09f57.PNG)
 
 
 ### Chapitre 3 
