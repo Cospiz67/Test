@@ -21,6 +21,8 @@ Sur cet exemple, la première couronne, c'est ce qu'il y a en gris.
 Notre but est donc d'avoir 3 blocs de même couleur, alignés sur chacune des faces. 
 
 Tout d'abord, 
+
+
 ### Chapitre 3 
 Voir si ça a marché 
 
