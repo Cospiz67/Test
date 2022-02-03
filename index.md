@@ -12,7 +12,15 @@ Tout d'abord, il faut savoir qu'on commence toujours un rubik's cube en faisant 
 J'avoue que pour faire 1 seule face, il n'y a pas trop d'astuces, vous devez juste le faire vous même.
 
 ### Deuxième étape
-Ok, maintenant, vous avez votre première face (face blanche) de faite. Maitenant, on va continuer en faisant la première couronne.
+Ok, maintenant, vous avez votre première face (face blanche) de faite. Maitenant, on va continuer en faisant la première couronne. Mais savez-vous ce qu'est la première couronne ?
+En fait, votre rubik's cube est composé de 6 faces, chacune composé de 3X3 blocs, c'est à dire 9 blocs. une couronne, c'est une ligne si on peut dire ça comme ça. La première couronne c'est donc la première ligne que vous pouvez bouger. 
+
+![image](https://user-images.githubusercontent.com/98915784/152348001-d4165003-2ae4-404f-9a34-4177f63898fe.png)
+
+Sur cet exemple, la première couronne, c'est ce qu'il y a en gris.
+Notre but est donc d'avoir 3 blocs de même couleur, alignés sur chacune des faces. 
+
+Tout d'abord, 
 ### Chapitre 3 
 Voir si ça a marché 
 
