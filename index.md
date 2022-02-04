@@ -113,6 +113,12 @@ Cette technique est à refaire tant que vous n'avez pas tous vos cubes placés s
 ## Sixième étape
 Maintenant, nous allons mettre les coins aux bons endroits. Un coin bien placé, c'est quand il possède les 3 couleurs des faces adjacentes. Voici un exemple.
 
+![2](https://user-images.githubusercontent.com/98915784/152518608-7e11ac67-f05c-4eb0-a74d-16033267ab74.PNG)
+
+Je vais donc essayer d'avoir chaque coin bien placé. Pour cela, on va utiliser la technique de l'ascenseur.
+
+
+
 
 
 
