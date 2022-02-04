@@ -117,9 +117,14 @@ Maintenant, nous allons mettre les coins aux bons endroits. Un coin bien placé,
 
 Je vais donc essayer d'avoir chaque coin bien placé. Pour cela, on va utiliser la technique de l'ascenseur.
 
+![13](https://user-images.githubusercontent.com/98915784/152535089-b9768e4e-65af-4d16-b379-2617414ace08.PNG)
 
+![14](https://user-images.githubusercontent.com/98915784/152535652-4a250b16-7315-4e33-80c8-b627417fbb80.PNG)
 
+Si tous vos coins ne sont pas encore bien placés, répétez cela en ayant à droite de la face que vous utilisez, un coin bien positionné. Une fois tous bien placés, vous pouvez passer à la prochaine et dernière étape.
 
+## Septième étape
+Il se peut qu'en faisant votre dernière étape, vos coins se soient naturellement bien mis. On appelle alors cela un coin parfait.
 
 
 
