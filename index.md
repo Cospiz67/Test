@@ -100,7 +100,15 @@ Cette étape consiste à mettre les cubes du milieu au bon endroit, c'est à dir
 
 En tournant ma couronne, j'arrive à mettre le cube vert sur la face verte et par la même occasion le cube orange sur la face orange.
 
+![12](https://user-images.githubusercontent.com/98915784/152516982-399b576c-cd5a-455b-9590-e1f22b6b2710.PNG)
 
+Ensuite pour les deux cubes restants (rouge et bleu), je fais la technique du garçon amoureux.
+
+![13](https://user-images.githubusercontent.com/98915784/152517106-9ba05298-bced-4e53-9daf-8fd05d06fdca.PNG)
+
+![14](https://user-images.githubusercontent.com/98915784/152517134-9fca2bdc-3834-4992-8105-73251d83f4ec.PNG)
+
+Cette technique est à refaire tant que vous n'avez pas tous vos cubes placés sur leur face.
 
 
 
