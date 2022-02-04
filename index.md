@@ -80,11 +80,27 @@ Maintenant, vous devez faire cela pour toutes les faces, jusqu'à avoir toute la
 ## Quatrième étape
 La quatrième étape consiste à réaliser une croix sur la face jaune. Vous allez à présent, prendre votre cube avec la face jaune en haut.
 
-![2](https://user-images.githubusercontent.com/98915784/152419706-f12c609c-b241-438c-baf3-35b4ebc73ee7.PNG)
+![10](https://user-images.githubusercontent.com/98915784/152513468-946f0cf1-a2ec-4f6e-888c-f391f25a5aae.PNG)
 
 Pour y arriver, il y a une petite histoire qu'on peut raconter pour faciliter l'apprentissage de la technique. C'est l'histoire de la lampe. Pour l'utiliser, il faut avoir un (ou plusieurs cubes jaunes dans l'idéal) sur la troisième couronne. 
 
-La lampe tombe
+![11](https://user-images.githubusercontent.com/98915784/152513541-8229bf57-05cc-41be-9c21-a86eee1e44d3.PNG)
+
+Ici, j'ai un cube jaune au milieu et un autre à côté, je vais donc pouvoir réaliser la technique de la lampe.
+Je vous mets l'histoire en haut et les manipulations en bas des images. 
+
+![12](https://user-images.githubusercontent.com/98915784/152513729-87fd71ad-7c62-4043-bf82-17da8380fea9.PNG)
+
+![13](https://user-images.githubusercontent.com/98915784/152513781-ff63efd2-84eb-4cd9-84ce-86cd5ecbe539.PNG)
+
+## Cinquième étape
+Cette étape consiste à mettre les cubes du milieu au bon endroit, c'est à dire, sur la face qui leur correspond. Le cube du milieu bleu doit aller sur la face bleue, le vert sur la face verte...
+
+
+
+
+
+
 
 
 
