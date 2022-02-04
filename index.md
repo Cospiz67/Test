@@ -137,5 +137,18 @@ Nous allons faire la technique du petit chaperon rouge.
 
 ![56](https://user-images.githubusercontent.com/98915784/152540594-95121884-6b1b-457f-8157-1be0c7b0224b.PNG)
 
+Répétez la suite de mouvement du petit chaperon rouge pour avoir tous vos autres coins parfaits.
+
+Lorsque vous obtenez ceci:
+
+![51](https://user-images.githubusercontent.com/98915784/152540943-acc3647a-710a-42b7-b811-273d0f12531c.PNG)
+
+Vous pouvez alors tourner la deuxième couronne et le tour est joué, vous avez fini votre rubik's cube !
+
+![52](https://user-images.githubusercontent.com/98915784/152543359-ac2e2ef2-81bb-44b3-9c2d-ec8a2f5efb66.PNG)
 
 
+
+Les images des rubik's cube en ligne ont été réalisées grâce aux sites:
+https://www.cokojeux.com/rubiks-cube-en-ligne/play/ 
+https://www.jeux-gratuits.com/jeu-magic-cube.html
