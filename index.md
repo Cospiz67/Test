@@ -98,6 +98,8 @@ Cette étape consiste à mettre les cubes du milieu au bon endroit, c'est à dir
 
 ![14](https://user-images.githubusercontent.com/98915784/152514845-b9cf7065-b61e-4054-a1ab-3476067ccfa3.PNG)
 
+En tournant ma couronne, j'arrive à mettre le cube vert sur la face verte et par la même occasion le cube orange sur la face orange.
+
 
 
 
