@@ -125,6 +125,9 @@ Si tous vos coins ne sont pas encore bien placés, répétez cela en ayant à dr
 
 ## Septième étape
 Il se peut qu'en faisant votre dernière étape, vos coins se soient naturellement bien mis. On appelle alors cela un coin parfait.
+Si vous avez un coin parfait, commencez à gauche de celui-ci. 
+Nous allons faire la technique du petit chaperon rouge.
+
 
 
 
