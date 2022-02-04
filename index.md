@@ -96,6 +96,8 @@ Je vous mets l'histoire en haut et les manipulations en bas des images.
 ## Cinquième étape
 Cette étape consiste à mettre les cubes du milieu au bon endroit, c'est à dire, sur la face qui leur correspond. Le cube du milieu bleu doit aller sur la face bleue, le vert sur la face verte...
 
+![14](https://user-images.githubusercontent.com/98915784/152514845-b9cf7065-b61e-4054-a1ab-3476067ccfa3.PNG)
+
 
 
 
