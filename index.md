@@ -94,7 +94,7 @@ Je vous mets l'histoire en haut et les manipulations en bas des images.
 ![13](https://user-images.githubusercontent.com/98915784/152513781-ff63efd2-84eb-4cd9-84ce-86cd5ecbe539.PNG)
 
 ## Cinquième étape
-Cette étape consiste à mettre les cubes du milieu au bon endroit, c'est à dire, sur la face qui leur correspond. Le cube du milieu bleu doit aller sur la face bleue, le vert sur la face verte...
+Cette étape consiste à mettre les cubes du milieu aux bons endroits, c'est à dire, sur la face qui leur correspond. Le cube du milieu bleu doit aller sur la face bleue, le vert sur la face verte...
 
 ![14](https://user-images.githubusercontent.com/98915784/152514845-b9cf7065-b61e-4054-a1ab-3476067ccfa3.PNG)
 
@@ -110,7 +110,8 @@ Ensuite pour les deux cubes restants (rouge et bleu), je fais la technique du ga
 
 Cette technique est à refaire tant que vous n'avez pas tous vos cubes placés sur leur face.
 
-
+## Sixième étape
+Maintenant, nous allons mettre les coins aux bons endroits. Un coin bien placé, c'est quand il possède les 3 couleurs des faces adjacentes. Voici un exemple.
 
 
 
