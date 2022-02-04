@@ -151,4 +151,5 @@ Vous pouvez alors tourner la deuxième couronne et le tour est joué, vous avez 
 
 Les images des rubik's cube en ligne ont été réalisées grâce aux sites:
 https://www.cokojeux.com/rubiks-cube-en-ligne/play/ 
+
 https://www.jeux-gratuits.com/jeu-magic-cube.html
